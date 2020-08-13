@@ -4,4 +4,5 @@ Trying to create merge conflict
 For new branch
 Trying to create merge conflict.
 
+Edited.
 Pull Request.
